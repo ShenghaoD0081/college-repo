@@ -6,3 +6,13 @@ Stony Brook University is located in **Long Island**.
 ### Computer Science
 The _Computer Science_ Program is the study of computer programs. It includes the architect of computers, the software, and many more.
 
+#### [Admission Requirements](https://www.stonybrook.edu/undergraduate-admissions/apply/freshman/)
+Admission Requirements:
+- SAT Requirements
+  - Reading And Writing: 550 - 660
+  - Math: 610 - 710
+  - Total Range: 1280 - 1460
+
+- ACT Requirements
+  - Math: 26
+  - Reading And Writing: 24
